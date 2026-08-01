@@ -4,7 +4,7 @@
     "slug": "game-theory",
     "name": "Game Theory"
   },
-  "updatedAt": "2026-08-01T19:11:52.919Z",
+  "updatedAt": "2026-08-01T19:12:01.621Z",
   "problems": [
     {
       "frontendId": "486",
@@ -43,6 +43,26 @@
           "path": "0877-stone-game/0877-stone-game.cpp",
           "sha": "d6af230485be9c834fdde3a448d97c74933b53fc",
           "lastSyncedAt": "2026-08-01T19:11:52.919Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3222",
+      "title": "Find the Winning Player in Coin Game",
+      "slug": "find-the-winning-player-in-coin-game",
+      "problemName": "3222-find-the-winning-player-in-coin-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-winning-player-in-coin-game/",
+      "folderPath": "3222-find-the-winning-player-in-coin-game/",
+      "readmePath": "3222-find-the-winning-player-in-coin-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3222-find-the-winning-player-in-coin-game.cpp",
+          "path": "3222-find-the-winning-player-in-coin-game/3222-find-the-winning-player-in-coin-game.cpp",
+          "sha": "a2aee532b2adaae8d13bc9bcb71fea4ee07032a0",
+          "lastSyncedAt": "2026-08-01T19:12:01.621Z"
         }
       ]
     }
