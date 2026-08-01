@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-01T19:19:21.436Z",
+  "updatedAt": "2026-08-01T19:19:32.046Z",
   "problems": [
     {
       "frontendId": "992",
@@ -22,7 +22,7 @@
           "filename": "0992-subarrays-with-k-different-integers.cpp",
           "path": "0992-subarrays-with-k-different-integers/0992-subarrays-with-k-different-integers.cpp",
           "sha": "a1fa19013931df9b1e933c2bdad4e2d6064f1b87",
-          "lastSyncedAt": "2026-08-01T19:12:54.170Z"
+          "lastSyncedAt": "2026-08-01T19:19:32.046Z"
         }
       ]
     },
