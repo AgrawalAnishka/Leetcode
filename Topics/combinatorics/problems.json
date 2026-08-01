@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "combinatorics",
+    "name": "Combinatorics"
+  },
+  "updatedAt": "2026-08-01T19:13:37.682Z",
+  "problems": [
+    {
+      "frontendId": "3518",
+      "title": "Smallest Palindromic Rearrangement II",
+      "slug": "smallest-palindromic-rearrangement-ii",
+      "problemName": "3518-smallest-palindromic-rearrangement-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/",
+      "folderPath": "3518-smallest-palindromic-rearrangement-ii/",
+      "readmePath": "3518-smallest-palindromic-rearrangement-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3518-smallest-palindromic-rearrangement-ii.cpp",
+          "path": "3518-smallest-palindromic-rearrangement-ii/3518-smallest-palindromic-rearrangement-ii.cpp",
+          "sha": "ed8370d01b1015048ec41f20336fab66de92778a",
+          "lastSyncedAt": "2026-08-01T19:13:37.682Z"
+        }
+      ]
+    }
+  ]
+}
