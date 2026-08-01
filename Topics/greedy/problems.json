@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-01T19:19:50.215Z",
+  "updatedAt": "2026-08-01T19:21:07.162Z",
   "problems": [
     {
       "frontendId": "3014",
@@ -42,7 +42,7 @@
           "filename": "3016-minimum-number-of-pushes-to-type-word-ii.cpp",
           "path": "3016-minimum-number-of-pushes-to-type-word-ii/3016-minimum-number-of-pushes-to-type-word-ii.cpp",
           "sha": "cf1567938d50ab6f7f82f5c920da346280ee8650",
-          "lastSyncedAt": "2026-08-01T19:19:05.886Z"
+          "lastSyncedAt": "2026-08-01T19:21:07.162Z"
         }
       ]
     }
