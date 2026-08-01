@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-01T19:21:31.634Z",
+  "updatedAt": "2026-08-01T19:21:38.071Z",
   "problems": [
     {
       "frontendId": "992",
@@ -42,7 +42,7 @@
           "filename": "2062-count-vowel-substrings-of-a-string.cpp",
           "path": "2062-count-vowel-substrings-of-a-string/2062-count-vowel-substrings-of-a-string.cpp",
           "sha": "6f0ab0f6f18a86d3bf32b87f5d59119a5137d879",
-          "lastSyncedAt": "2026-08-01T19:19:37.928Z"
+          "lastSyncedAt": "2026-08-01T19:21:38.071Z"
         }
       ]
     },
