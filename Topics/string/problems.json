@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-01T19:13:02.345Z",
+  "updatedAt": "2026-08-01T19:13:08.320Z",
   "problems": [
     {
       "frontendId": "2062",
@@ -23,6 +23,26 @@
           "path": "2062-count-vowel-substrings-of-a-string/2062-count-vowel-substrings-of-a-string.cpp",
           "sha": "6f0ab0f6f18a86d3bf32b87f5d59119a5137d879",
           "lastSyncedAt": "2026-08-01T19:13:02.345Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2976",
+      "title": "Minimum Cost to Convert String I",
+      "slug": "minimum-cost-to-convert-string-i",
+      "problemName": "2976-minimum-cost-to-convert-string-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-convert-string-i/",
+      "folderPath": "2976-minimum-cost-to-convert-string-i/",
+      "readmePath": "2976-minimum-cost-to-convert-string-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2976-minimum-cost-to-convert-string-i.cpp",
+          "path": "2976-minimum-cost-to-convert-string-i/2976-minimum-cost-to-convert-string-i.cpp",
+          "sha": "5867dcaa637daee643a4f72a418ac68e67231c9b",
+          "lastSyncedAt": "2026-08-01T19:13:08.320Z"
         }
       ]
     },
