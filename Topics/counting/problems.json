@@ -4,8 +4,28 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-08-01T19:12:12.476Z",
+  "updatedAt": "2026-08-01T19:12:54.170Z",
   "problems": [
+    {
+      "frontendId": "992",
+      "title": "Subarrays with K Different Integers",
+      "slug": "subarrays-with-k-different-integers",
+      "problemName": "0992-subarrays-with-k-different-integers",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
+      "folderPath": "0992-subarrays-with-k-different-integers/",
+      "readmePath": "0992-subarrays-with-k-different-integers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0992-subarrays-with-k-different-integers.cpp",
+          "path": "0992-subarrays-with-k-different-integers/0992-subarrays-with-k-different-integers.cpp",
+          "sha": "a1fa19013931df9b1e933c2bdad4e2d6064f1b87",
+          "lastSyncedAt": "2026-08-01T19:12:54.170Z"
+        }
+      ]
+    },
     {
       "frontendId": "3016",
       "title": "Minimum Number of Pushes to Type Word II",
