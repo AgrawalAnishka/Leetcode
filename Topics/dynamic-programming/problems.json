@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-01T19:18:52.394Z",
+  "updatedAt": "2026-08-01T19:20:44.796Z",
   "problems": [
     {
       "frontendId": "486",
@@ -22,7 +22,7 @@
           "filename": "0486-predict-the-winner.cpp",
           "path": "0486-predict-the-winner/0486-predict-the-winner.cpp",
           "sha": "b8194e88a52d1e810d267efe74681ecf8e8c44dd",
-          "lastSyncedAt": "2026-08-01T19:18:41.298Z"
+          "lastSyncedAt": "2026-08-01T19:20:44.796Z"
         }
       ]
     },
