@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-01T19:12:12.476Z",
+  "updatedAt": "2026-08-01T19:13:02.345Z",
   "problems": [
+    {
+      "frontendId": "2062",
+      "title": "Count Vowel Substrings of a String",
+      "slug": "count-vowel-substrings-of-a-string",
+      "problemName": "2062-count-vowel-substrings-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-vowel-substrings-of-a-string/",
+      "folderPath": "2062-count-vowel-substrings-of-a-string/",
+      "readmePath": "2062-count-vowel-substrings-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2062-count-vowel-substrings-of-a-string.cpp",
+          "path": "2062-count-vowel-substrings-of-a-string/2062-count-vowel-substrings-of-a-string.cpp",
+          "sha": "6f0ab0f6f18a86d3bf32b87f5d59119a5137d879",
+          "lastSyncedAt": "2026-08-01T19:13:02.345Z"
+        }
+      ]
+    },
     {
       "frontendId": "3016",
       "title": "Minimum Number of Pushes to Type Word II",
