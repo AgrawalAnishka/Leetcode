@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-01T19:20:53.603Z",
+  "updatedAt": "2026-08-01T19:21:00.671Z",
   "problems": [
     {
       "frontendId": "486",
@@ -82,7 +82,7 @@
           "filename": "3222-find-the-winning-player-in-coin-game.cpp",
           "path": "3222-find-the-winning-player-in-coin-game/3222-find-the-winning-player-in-coin-game.cpp",
           "sha": "a2aee532b2adaae8d13bc9bcb71fea4ee07032a0",
-          "lastSyncedAt": "2026-08-01T19:18:58.488Z"
+          "lastSyncedAt": "2026-08-01T19:21:00.671Z"
         }
       ]
     },
