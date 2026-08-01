@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-01T19:12:54.170Z",
+  "updatedAt": "2026-08-01T19:19:15.577Z",
   "problems": [
     {
       "frontendId": "992",
@@ -42,7 +42,7 @@
           "filename": "2799-count-complete-subarrays-in-an-array.cpp",
           "path": "2799-count-complete-subarrays-in-an-array/2799-count-complete-subarrays-in-an-array.cpp",
           "sha": "66afde2c5da557c8c7d2ae311cbed7644e9379d8",
-          "lastSyncedAt": "2026-08-01T19:12:29.011Z"
+          "lastSyncedAt": "2026-08-01T19:19:15.577Z"
         }
       ]
     }
