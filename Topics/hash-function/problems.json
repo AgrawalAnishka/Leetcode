@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "hash-function",
+    "name": "Hash Function"
+  },
+  "updatedAt": "2026-08-01T19:12:37.161Z",
+  "problems": [
+    {
+      "frontendId": "2261",
+      "title": "K Divisible Elements Subarrays",
+      "slug": "k-divisible-elements-subarrays",
+      "problemName": "2261-k-divisible-elements-subarrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/k-divisible-elements-subarrays/",
+      "folderPath": "2261-k-divisible-elements-subarrays/",
+      "readmePath": "2261-k-divisible-elements-subarrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2261-k-divisible-elements-subarrays.cpp",
+          "path": "2261-k-divisible-elements-subarrays/2261-k-divisible-elements-subarrays.cpp",
+          "sha": "cce66192f0c73f9a852fc672450646f8cf416558",
+          "lastSyncedAt": "2026-08-01T19:12:37.161Z"
+        }
+      ]
+    }
+  ]
+}
