@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-01T19:13:08.320Z",
+  "updatedAt": "2026-08-01T19:13:21.378Z",
   "problems": [
     {
       "frontendId": "2062",
@@ -43,6 +43,26 @@
           "path": "2976-minimum-cost-to-convert-string-i/2976-minimum-cost-to-convert-string-i.cpp",
           "sha": "5867dcaa637daee643a4f72a418ac68e67231c9b",
           "lastSyncedAt": "2026-08-01T19:13:08.320Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3014",
+      "title": "Minimum Number of Pushes to Type Word I",
+      "slug": "minimum-number-of-pushes-to-type-word-i",
+      "problemName": "3014-minimum-number-of-pushes-to-type-word-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/",
+      "folderPath": "3014-minimum-number-of-pushes-to-type-word-i/",
+      "readmePath": "3014-minimum-number-of-pushes-to-type-word-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3014-minimum-number-of-pushes-to-type-word-i.cpp",
+          "path": "3014-minimum-number-of-pushes-to-type-word-i/3014-minimum-number-of-pushes-to-type-word-i.cpp",
+          "sha": "60d6209088d3f90aa6d2d710e3f793f6dbc9aa8f",
+          "lastSyncedAt": "2026-08-01T19:13:21.378Z"
         }
       ]
     },
