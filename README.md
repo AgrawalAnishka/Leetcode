@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 19 | 6 | 10 | 3 |
+| 20 | 6 | 11 | 3 |
 
 ## Activity
 
@@ -20,28 +20,28 @@ Contains topicwise list of solved problems.
 | 2026-07-30 | 7 |
 | 2026-07-31 | 2 |
 | 2026-08-01 | 3 |
-| 2026-08-02 | 1 |
+| 2026-08-02 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 6 | 32% |
-| Hash Table | 6 | 32% |
-| Math | 5 | 26% |
-| String | 5 | 26% |
-| Counting | 3 | 16% |
-| Game Theory | 3 | 16% |
-| Dynamic Programming | 2 | 11% |
-| Greedy | 2 | 11% |
-| Sliding Window | 2 | 11% |
-| Combinatorics | 1 | 5% |
+| Array | 7 | 35% |
+| Hash Table | 7 | 35% |
+| String | 6 | 30% |
+| Math | 5 | 25% |
+| Counting | 3 | 15% |
+| Game Theory | 3 | 15% |
+| Dynamic Programming | 2 | 10% |
+| Greedy | 2 | 10% |
+| Sliding Window | 2 | 10% |
+| Trie | 2 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 6 |
+| [Array](Topics/array/) | 7 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 0 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -55,7 +55,7 @@ Contains topicwise list of solved problems.
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Function](Topics/hash-function/) | 1 |
-| [Hash Table](Topics/hash-table/) | 6 |
+| [Hash Table](Topics/hash-table/) | 7 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 0 |
 | [Math](Topics/math/) | 5 |
@@ -67,6 +67,6 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 5 |
-| [Trie](Topics/trie/) | 1 |
+| [String](Topics/string/) | 6 |
+| [Trie](Topics/trie/) | 2 |
 <!---LeetHub Summary End-->
