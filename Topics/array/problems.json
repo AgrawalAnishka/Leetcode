@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-01T19:21:41.017Z",
+  "updatedAt": "2026-08-02T10:19:32.153Z",
   "problems": [
     {
       "frontendId": "486",
@@ -123,6 +123,26 @@
           "path": "2976-minimum-cost-to-convert-string-i/2976-minimum-cost-to-convert-string-i.cpp",
           "sha": "5867dcaa637daee643a4f72a418ac68e67231c9b",
           "lastSyncedAt": "2026-08-01T19:21:41.017Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3043",
+      "title": "Find the Length of the Longest Common Prefix",
+      "slug": "find-the-length-of-the-longest-common-prefix",
+      "problemName": "3043-find-the-length-of-the-longest-common-prefix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/",
+      "folderPath": "3043-find-the-length-of-the-longest-common-prefix/",
+      "readmePath": "3043-find-the-length-of-the-longest-common-prefix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3043-find-the-length-of-the-longest-common-prefix.cpp",
+          "path": "3043-find-the-length-of-the-longest-common-prefix/3043-find-the-length-of-the-longest-common-prefix.cpp",
+          "sha": "4f8d6add4c283164efe03641e40773f1459e9e41",
+          "lastSyncedAt": "2026-08-02T10:19:32.153Z"
         }
       ]
     }
