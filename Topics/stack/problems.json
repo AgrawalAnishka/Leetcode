@@ -4,6 +4,27 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-08-01T19:11:19.549Z",
-  "problems": []
+  "updatedAt": "2026-08-03T11:38:06.700Z",
+  "problems": [
+    {
+      "frontendId": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "problemName": "0020-valid-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+      "folderPath": "0020-valid-parentheses/",
+      "readmePath": "0020-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0020-valid-parentheses.cpp",
+          "path": "0020-valid-parentheses/0020-valid-parentheses.cpp",
+          "sha": "5cec90714e0dc997e7ea64e98dede64af08d237d",
+          "lastSyncedAt": "2026-08-03T11:38:06.700Z"
+        }
+      ]
+    }
+  ]
 }
