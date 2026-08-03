@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-03T13:38:42.273Z",
+  "updatedAt": "2026-08-03T13:59:37.155Z",
   "problems": [
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "0049-group-anagrams/",
+      "readmePath": "0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0049-group-anagrams.cpp",
+          "path": "0049-group-anagrams/0049-group-anagrams.cpp",
+          "sha": "ff80bd52a825a98709ddf47d680236f1a2914ce8",
+          "lastSyncedAt": "2026-08-03T13:59:37.155Z"
+        }
+      ]
+    },
     {
       "frontendId": "56",
       "title": "Merge Intervals",
