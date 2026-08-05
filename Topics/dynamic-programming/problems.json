@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-05T14:08:36.295Z",
+  "updatedAt": "2026-08-05T14:09:07.398Z",
   "problems": [
     {
       "frontendId": "87",
@@ -22,7 +22,7 @@
           "filename": "0087-scramble-string.cpp",
           "path": "0087-scramble-string/0087-scramble-string.cpp",
           "sha": "48d972f642b6d294ac3d423fc950644e9d039e6b",
-          "lastSyncedAt": "2026-08-05T14:08:36.295Z"
+          "lastSyncedAt": "2026-08-05T14:09:07.398Z"
         }
       ]
     },
