@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-08-04T13:19:02.058Z",
+  "updatedAt": "2026-08-05T05:22:02.355Z",
   "problems": [
     {
       "frontendId": "200",
@@ -23,6 +23,26 @@
           "path": "0200-number-of-islands/0200-number-of-islands.cpp",
           "sha": "8ada6bc6ea05bdd415407c8da9601febfead0d67",
           "lastSyncedAt": "2026-08-04T13:19:02.058Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3310",
+      "title": "Remove Methods From Project",
+      "slug": "remove-methods-from-project",
+      "problemName": "3310-remove-methods-from-project",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-methods-from-project/",
+      "folderPath": "3310-remove-methods-from-project/",
+      "readmePath": "3310-remove-methods-from-project/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3310-remove-methods-from-project.cpp",
+          "path": "3310-remove-methods-from-project/3310-remove-methods-from-project.cpp",
+          "sha": "08a5af5b5629dba61fa8dc6fca7fe462ed201225",
+          "lastSyncedAt": "2026-08-05T05:22:02.355Z"
         }
       ]
     }
