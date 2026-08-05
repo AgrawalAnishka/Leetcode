@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 27 | 8 | 16 | 3 |
+| 28 | 8 | 16 | 4 |
 
 ## Activity
 
@@ -23,18 +23,18 @@ Contains topicwise list of solved problems.
 | 2026-08-02 | 2 |
 | 2026-08-03 | 5 |
 | 2026-08-04 | 1 |
-| 2026-08-05 | 1 |
+| 2026-08-05 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 41% |
-| Hash Table | 9 | 33% |
-| String | 9 | 33% |
-| Math | 5 | 19% |
+| Array | 11 | 39% |
+| String | 10 | 36% |
+| Hash Table | 9 | 32% |
+| Math | 5 | 18% |
+| Dynamic Programming | 4 | 14% |
 | Counting | 3 | 11% |
-| Dynamic Programming | 3 | 11% |
 | Game Theory | 3 | 11% |
 | Sliding Window | 3 | 11% |
 | Sorting | 3 | 11% |
@@ -55,7 +55,7 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 3 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Graph Theory](Topics/graph/) | 2 |
@@ -74,7 +74,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 9 |
+| [String](Topics/string/) | 10 |
 | [Trie](Topics/trie/) | 2 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
