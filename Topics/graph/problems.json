@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-08-01T19:21:41.017Z",
+  "updatedAt": "2026-08-05T05:22:02.355Z",
   "problems": [
     {
       "frontendId": "2976",
@@ -23,6 +23,26 @@
           "path": "2976-minimum-cost-to-convert-string-i/2976-minimum-cost-to-convert-string-i.cpp",
           "sha": "5867dcaa637daee643a4f72a418ac68e67231c9b",
           "lastSyncedAt": "2026-08-01T19:21:41.017Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3310",
+      "title": "Remove Methods From Project",
+      "slug": "remove-methods-from-project",
+      "problemName": "3310-remove-methods-from-project",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-methods-from-project/",
+      "folderPath": "3310-remove-methods-from-project/",
+      "readmePath": "3310-remove-methods-from-project/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3310-remove-methods-from-project.cpp",
+          "path": "3310-remove-methods-from-project/3310-remove-methods-from-project.cpp",
+          "sha": "08a5af5b5629dba61fa8dc6fca7fe462ed201225",
+          "lastSyncedAt": "2026-08-05T05:22:02.355Z"
         }
       ]
     }
