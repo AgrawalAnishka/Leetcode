@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "two-pointers",
+    "name": "Two Pointers"
+  },
+  "updatedAt": "2026-08-05T15:10:58.603Z",
+  "problems": [
+    {
+      "frontendId": "11",
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "problemName": "0011-container-with-most-water",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water/",
+      "folderPath": "0011-container-with-most-water/",
+      "readmePath": "0011-container-with-most-water/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0011-container-with-most-water.cpp",
+          "path": "0011-container-with-most-water/0011-container-with-most-water.cpp",
+          "sha": "c0b890dd07cafc6b3ff62f1ded03049e6cfeed7e",
+          "lastSyncedAt": "2026-08-05T15:10:58.603Z"
+        }
+      ]
+    }
+  ]
+}
