@@ -4,8 +4,28 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-03T13:38:42.273Z",
+  "updatedAt": "2026-08-05T14:08:36.295Z",
   "problems": [
+    {
+      "frontendId": "87",
+      "title": "Scramble String",
+      "slug": "scramble-string",
+      "problemName": "0087-scramble-string",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/scramble-string/",
+      "folderPath": "0087-scramble-string/",
+      "readmePath": "0087-scramble-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0087-scramble-string.cpp",
+          "path": "0087-scramble-string/0087-scramble-string.cpp",
+          "sha": "48d972f642b6d294ac3d423fc950644e9d039e6b",
+          "lastSyncedAt": "2026-08-05T14:08:36.295Z"
+        }
+      ]
+    },
     {
       "frontendId": "121",
       "title": "Best Time to Buy and Sell Stock",
