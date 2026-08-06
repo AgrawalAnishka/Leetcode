@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 29 | 8 | 17 | 4 |
+| 30 | 8 | 18 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 9 days | 9 days | 9 |
+| 10 days | 10 days | 10 |
 
 | Date | Problems |
 | --- | ---: |
@@ -24,16 +24,17 @@ Contains topicwise list of solved problems.
 | 2026-08-03 | 5 |
 | 2026-08-04 | 1 |
 | 2026-08-05 | 3 |
+| 2026-08-06 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 12 | 41% |
-| String | 10 | 34% |
-| Hash Table | 9 | 31% |
+| Array | 12 | 40% |
+| String | 11 | 37% |
+| Hash Table | 9 | 30% |
+| Dynamic Programming | 5 | 17% |
 | Math | 5 | 17% |
-| Dynamic Programming | 4 | 14% |
 | Counting | 3 | 10% |
 | Game Theory | 3 | 10% |
 | Greedy | 3 | 10% |
@@ -55,7 +56,7 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 3 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Graph Theory](Topics/graph/) | 2 |
@@ -64,6 +65,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 9 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 0 |
+| [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 5 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Quicksort](Topics/quicksort/) | 1 |
@@ -74,8 +76,8 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 10 |
+| [String](Topics/string/) | 11 |
 | [Trie](Topics/trie/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 1 |
+| [Two Pointers](Topics/two-pointers/) | 2 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
