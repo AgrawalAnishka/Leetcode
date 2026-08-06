@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 30 | 8 | 18 | 4 |
+| 31 | 9 | 18 | 4 |
 
 ## Activity
 
@@ -24,22 +24,22 @@ Contains topicwise list of solved problems.
 | 2026-08-03 | 5 |
 | 2026-08-04 | 1 |
 | 2026-08-05 | 3 |
-| 2026-08-06 | 1 |
+| 2026-08-06 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 12 | 40% |
-| String | 11 | 37% |
-| Hash Table | 9 | 30% |
-| Dynamic Programming | 5 | 17% |
-| Math | 5 | 17% |
+| Array | 12 | 39% |
+| String | 12 | 39% |
+| Hash Table | 10 | 32% |
+| Dynamic Programming | 5 | 16% |
+| Math | 5 | 16% |
+| Sorting | 4 | 13% |
 | Counting | 3 | 10% |
 | Game Theory | 3 | 10% |
 | Greedy | 3 | 10% |
 | Sliding Window | 3 | 10% |
-| Sorting | 3 | 10% |
 
 ## Topics
 
@@ -62,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Graph Theory](Topics/graph/) | 2 |
 | [Greedy](Topics/greedy/) | 3 |
 | [Hash Function](Topics/hash-function/) | 1 |
-| [Hash Table](Topics/hash-table/) | 9 |
+| [Hash Table](Topics/hash-table/) | 10 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 0 |
 | [Manacher](Topics/manacher/) | 1 |
@@ -74,9 +74,9 @@ Contains topicwise list of solved problems.
 | [Shortest Path](Topics/shortest-path/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
-| [Sorting](Topics/sorting/) | 3 |
+| [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 11 |
+| [String](Topics/string/) | 12 |
 | [Trie](Topics/trie/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 2 |
 | [Union-Find](Topics/union-find/) | 1 |
