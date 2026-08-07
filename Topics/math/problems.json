@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-01T19:21:55.047Z",
+  "updatedAt": "2026-08-07T07:16:08.314Z",
   "problems": [
     {
       "frontendId": "486",
@@ -83,6 +83,26 @@
           "path": "3222-find-the-winning-player-in-coin-game/3222-find-the-winning-player-in-coin-game.cpp",
           "sha": "a2aee532b2adaae8d13bc9bcb71fea4ee07032a0",
           "lastSyncedAt": "2026-08-01T19:21:00.671Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3348",
+      "title": "Smallest Divisible Digit Product II",
+      "slug": "smallest-divisible-digit-product-ii",
+      "problemName": "3348-smallest-divisible-digit-product-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-divisible-digit-product-ii/",
+      "folderPath": "3348-smallest-divisible-digit-product-ii/",
+      "readmePath": "3348-smallest-divisible-digit-product-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3348-smallest-divisible-digit-product-ii.cpp",
+          "path": "3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.cpp",
+          "sha": "746bb14de7bdb01f17f3082b2da16615c0a0d618",
+          "lastSyncedAt": "2026-08-07T07:16:08.314Z"
         }
       ]
     },
