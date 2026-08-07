@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-06T05:32:27.033Z",
+  "updatedAt": "2026-08-07T07:16:08.314Z",
   "problems": [
     {
       "frontendId": "3",
@@ -223,6 +223,26 @@
           "path": "3043-find-the-length-of-the-longest-common-prefix/3043-find-the-length-of-the-longest-common-prefix.cpp",
           "sha": "4f8d6add4c283164efe03641e40773f1459e9e41",
           "lastSyncedAt": "2026-08-02T10:19:32.153Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3348",
+      "title": "Smallest Divisible Digit Product II",
+      "slug": "smallest-divisible-digit-product-ii",
+      "problemName": "3348-smallest-divisible-digit-product-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-divisible-digit-product-ii/",
+      "folderPath": "3348-smallest-divisible-digit-product-ii/",
+      "readmePath": "3348-smallest-divisible-digit-product-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3348-smallest-divisible-digit-product-ii.cpp",
+          "path": "3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.cpp",
+          "sha": "746bb14de7bdb01f17f3082b2da16615c0a0d618",
+          "lastSyncedAt": "2026-08-07T07:16:08.314Z"
         }
       ]
     },
